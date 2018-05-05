@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #666;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px 40px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.mainContainer {
+    background-color: darkgrey;
+    margin: 0 auto;
+    width: 70%;
+    padding: 20px 40px;
+}

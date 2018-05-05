@@ -1,0 +1,41 @@
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+}
+
+header {
+}
+
+section {
+}
+
+#left {
+}
+
+#middle {
+}
+
+#right {
+}
+
+#full {
+  /* 
+  clear: both;
+  overflow: auto;
+  background-color: #eee;
+  width: 100%;
+  */
+}
+
+#division {
+}
+
+aside {
+}
+
+footer {
+}
