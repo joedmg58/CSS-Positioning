@@ -1,0 +1,21 @@
+.container {
+    margin: 0 auto;
+    background-color: white;
+    width: 60%;
+}
+
+
+.relative {
+    background-color: #eee;
+    position: relative;
+}
+
+.absolute {
+    background-color: #999;
+    position: absolute;
+    width: 50%;
+}
+
+.fixed {
+    background-color: #eee;
+}
